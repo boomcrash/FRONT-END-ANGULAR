@@ -7,3 +7,6 @@ EVIDENCIAS
 ![image](https://user-images.githubusercontent.com/64045193/227812680-6295bc87-39d7-448b-917a-54d4e1bf9c50.png)
 
 ![image](https://user-images.githubusercontent.com/64045193/227812689-83a4994b-0a85-4fcd-8943-721da9c247c9.png)
+
+
+Las unstrucciones de ejecucion del front esta dentro de la carpeta front-employee-app
